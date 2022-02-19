@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="lib" path="G:/Work/Jars/mssql-jdbc-9.4.0.jre8.jar"/>
+	<classpathentry kind="lib" path="G:/Work/Jars/httpclient-4.5.13.jar"/>
+	<classpathentry kind="lib" path="G:/Work/Jars/httpcore-4.4.13.jar"/>
+	<classpathentry kind="lib" path="G:/Work/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/Work/Jars/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Work/Jars/javax.mail.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/Work/Jars/activation.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
